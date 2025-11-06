@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Tasks",
+  "description": "A beautifully designed, minimalist task manager application built with React and Tailwind CSS. It allows users to add, manage, and filter their daily tasks with data persisted in the browser's local storage.",
+  "requestFramePermissions": []
+}
